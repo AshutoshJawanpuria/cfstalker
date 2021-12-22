@@ -1,5 +1,5 @@
 Have you ever tried stalking someone on codeforces?
-It may be cumbersome  to repeatedly open their ID's to see the questions that they have practices
+It may be cumbersome  to repeatedly open their ID's to see the questions that they have practiced
 
 Here I have built a python engine which lets you know if someone has solved a question while it is running(and around 1 minute before starting the engine itself)
 
