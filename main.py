@@ -50,7 +50,7 @@ while(True):
                     str(data['result'][i]['contestId'])+"/" + \
                     data['result'][i]['problem']['index']
                 window.title(" problem solved")
-                stri = "your rival " + handle + " has just solved a "+str(data['result'][i]['problem']['rating']) + " rated broblem " + data[
+                stri = "your rival " + handle + " has just solved a "+str(data['result'][i]['problem']['rating']) + " rated problem " + data[
                     'result'][i]['problem']['index'] + " "+data['result'][i]['problem']['name']
                 label = tkinter.Label(window, text=stri).grid(row=0, column=0)
 
