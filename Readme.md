@@ -19,6 +19,6 @@ not be displayed to the terminal
 
 ![Last_10_Questions](Images/last_10_problems.png)
 
-1[Question_Solved](Images/question_solved.png)
+![Question_Solved](Images/question_solved.png)
 
 
