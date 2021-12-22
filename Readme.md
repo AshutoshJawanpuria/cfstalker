@@ -15,5 +15,10 @@ if your friend solves a problem
 not be displayed to the terminal
 3. This Engine would be made contest friendly where the questions are unrated and hence the current engine might fail during contests or unrated questions
 
+![Input]\Images\input.png
+
+![Last 10 Questions]\Images\last 10 problems.png
+
+1[Question Solved]\Images\question solved.png
 
 
